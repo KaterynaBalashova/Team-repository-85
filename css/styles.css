@@ -9,6 +9,12 @@ body {
 .about {
   background-color: orange;
 }
+
+.footer {
+  background-color: aquamarine;
+}
+
 .team {
   background-color: azure;
+
 }
